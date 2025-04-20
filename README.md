@@ -43,6 +43,7 @@ digital-diary/
 ├── DigitalDiary.java
 ├── DigitalDiaryUnitTests.java
 ├── DigitalDiaryIntegrationTests.java
+├── DigitalDiaryDB.sql
 ├── README.md
 ├── .gitignore
 └── config.properties
