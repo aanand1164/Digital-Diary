@@ -36,17 +36,20 @@ A Java Swing-based Digital Diary application that allows users to create, edit, 
 
 ## 📁 Folder Structure
 digital-diary/
+│
 ├── lib/
 │   ├── jcalendar-1.4.jar
 │   ├── junit-platform-console-standalone-1.13.0-M2.jar
 │   └── mysql-connector-j-9.2.0
-├── DigitalDiary.java
-├── DigitalDiaryUnitTests.java
-├── DigitalDiaryIntegrationTests.java
-├── DigitalDiaryDB.sql
-├── README.md
-├── .gitignore
-└── config.properties
+│
+├── DigitalDiary.java                        # Main application code
+├── DigitalDiaryUnitTests.java               # Unit test cases
+├── DigitalDiaryIntegrationTests.java        # Integration test cases
+├── DigitalDiaryDB.sql                       # SQL script for DB schema
+├── README.md                                # Project documentation
+├── .gitignore                               # Git ignore file
+└── config.properties                        # Configuration file (e.g., DB credentials)
+
 
 ## 📄 License
 This project is licensed under the MIT License.
