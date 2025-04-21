@@ -35,6 +35,7 @@ A Java Swing-based Digital Diary application that allows users to create, edit, 
 
 
 ## 📁 Folder Structure
+```
 digital-diary/
 │
 ├── lib/
@@ -49,6 +50,7 @@ digital-diary/
 ├── README.md                                # Project documentation
 ├── .gitignore                               # Git ignore file
 └── config.properties                        # Configuration file (e.g., DB credentials)
+```
 
 
 ## 📄 License
